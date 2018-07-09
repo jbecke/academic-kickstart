@@ -10,31 +10,37 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Natural Language Processing",
+    "Information Extraction",
+    "Knowledge Representation",
+    "Distributed Systems"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "BSE in Computer Science"
+  institution = "University of Pennsylvania (in-progress)"
+  year = 2020
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "BSc in Economics"
+  institution = "The Wharton School (in-progress)"
+  year = 2020
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+  course = "International Baccalaureate"
+  institution = "Upper Canada College"
+  year = 2016
+
 +++
 
-# Biography
+## Greetings!
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a 3rd year undergrad studying computer science, statistics, and finance. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+> "My main goal is to build a machine smarter then myself, then retire."  - [Jürgen Schmidhuber](http://people.idsia.ch/~juergen/)
+
+I have focused my studies and research in **machine learning** and **natural language processing**, with a focus on combining symbolic and neural approaches. A collection of my ideas on these topics will appear below.
+
+My favorite recent paper is [The Case for Learned Index Structures](https://arxiv.org/pdf/1712.01208.pdf), for using ML in an application I had never considered applicable. My all time favorite paper is, again from Schmidhuber, is his [Formal Theory of Creativity, Fun,
+and Intrinsic Motivation](http://people.idsia.ch/~juergen/ieeecreative.pdf).
