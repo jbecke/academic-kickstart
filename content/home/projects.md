@@ -4,8 +4,8 @@ widget = "projects"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Projects"
-subtitle = ""
+title = "Projects and Research"
+subtitle = "Code and batteries included."
 
 # Order that this section will appear in.
 weight = 50
@@ -41,4 +41,3 @@ filter_default = 0
 #   tag = ".demo"
 
 +++
-
