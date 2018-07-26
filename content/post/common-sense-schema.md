@@ -1,7 +1,7 @@
 +++
 title = "The Elusiveness of a Schema for Common Sense"
 date = 2018-07-07T19:24:31-04:00
-draft = false
+draft = true
 summary = "Graphs, logics, vectors, frames, tables... the inadequacy of these and a zoo of other schemas in representing common sense. And an application to role-playing games."
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -39,4 +39,4 @@ Now the player asks, "But what is it about wings that allow an entity to fly". M
 
 But what if the player asks, "Shall I attempt to slay the dragon with my dagger"? This requires an understanding, among many other things, that (1) a dagger is a melee weapon, (2) the dragon can fly, which entails (3) a melee weapon is not an appropriate choice because the dragon can just fly away. In other words, this requires an understanding of intuitive physics.
 
-How do we represent intuitive physics? 
+How do we represent intuitive physics?

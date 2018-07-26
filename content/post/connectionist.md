@@ -1,7 +1,7 @@
 +++
 title = "The Tragedy of the Partially Observable Connectionist"
 date = 2018-07-08T22:39:23-04:00
-draft = false
+draft = true
 summary = "Or equivalently, Folk Theories of Epiphenomena in Artificial Intelligence. In this post, I postulate that humans brains are \"partially observable connectionists\": neural nets unable observe their full internal state. I wonder with what efficacy (over random search) these agents can reproduce their architectures, given their limited introspection abilities."
 
 # Tags and categories
