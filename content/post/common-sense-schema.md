@@ -20,16 +20,14 @@ preview = true
 
 +++
 
-My interest in AI research comes from a particular frustration. Click here to skip my story.
-
-In 2011, I had just built a gaming PC when The Elder Scrolls V: Skyrim came out. It was a fantastic, immersive experience except for one sore point: the non-player characters (NPCs). The designers created a graphically beautiful and lore-rich world, inhabited by finite state machines.
+The Elder Scrolls V: Skyrim is my favorite role-playing video game. It was a fantastic, immersive experience except for one sore point: the non-player characters (NPCs). The designers created a graphically beautiful and lore-rich world, inhabited by finite state machines.
 
 > The designers created a graphically beautiful and lore-rich world, inhabited by finite state machines.
 ---
 
 If you're role playing as a manic Nord who kills every villager in sight, the state machine design is fine. But as soon as you try to talk to an NPC the immersion falls apart (you select dialog lines from a pre-defined list at each turn).
 
-I developed an idea that sits in my journal under "NPC manifesto" from 2014. The first part is using speech recognition and text-to-speech instead of multiple choice. But that creates a problem: how do NPCs respond to arbitrary text? This is the meat of the idea.
+I developed an idea that sits in my journal under "NPC manifesto" from 2014. The first part is using speech recognition and text-to-speech instead of multiple choice. But that creates a problem: how do NPCs respond to arbitrary text? This is the crux of the idea.
 
 I wanted to represent each NPC as a set of several things: (1) a personality vector (think word2vec), (2) a vernacular embedding, and (3) a subscription to various databases. The databases would chiefly be semantic nets (e.g. 3-tuples of entity-relation-entity), with some things stored in a relational database (e.g. date of birth). Neo4j, OrientDB, or other graph databases that allow you to mix properties and relations would be a good fit for this. The game would have several KBs. There'd be a interpersonal relation KB, a temporally-coded KB of events (e.g. a lore), and specialty knowledge (e.g. crafting materials). As an aside: perhaps a temporal graph database could simplify this structure. I thought I'd cracked NPCs - or at least had the right design such that a team of writers, engineers, and artists could make believable characters under the framework. I considered building it as a middleware and marketing it as a "personality engine" for games ([related paper](https://www.researchgate.net/publication/262150526_GAMYGDALA_An_emotion_engine_for_games)).
 

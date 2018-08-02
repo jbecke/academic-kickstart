@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "Learning to Extract Implicit Information via Reading Comprehension Datasets"
+summary = "Learning to Extract Implicit Information via Reading Comprehension Datasets."
 
 # Optional image to display on homepage.
 image_preview = "npc.jpg"
@@ -33,7 +33,7 @@ caption = ""
 
 What is Open Information Extraction (OpenIE)?
 ---
-OpenIE is the [Natural Language Processing task](https://github.com/sebastianruder/NLP-progress) of extracting machine-readable information from free text (e.g. books, news, etc). Concretely, most OpenIE systems generate \<subject, relation, object\> tuples, e.g. "Barack Obama was President of the United States." becomes \<Barack Obama, was President of, the United States\> or \<Barack Obama, was, President of the United States\>. OpenIE is useful for knowledge-base construction, fact-checking, 
+OpenIE is the [Natural Language Processing task](https://github.com/sebastianruder/NLP-progress) of extracting machine-readable information from free text (e.g. books, news, etc). Concretely, most OpenIE systems generate \<subject, relation, object\> tuples, e.g. "Barack Obama was President of the United States." becomes \<Barack Obama, was President of, the United States\> or \<Barack Obama, was, President of the United States\>. OpenIE is useful for knowledge-base construction, fact-checking,
 
 What are the issues with existing systems?
 ---
