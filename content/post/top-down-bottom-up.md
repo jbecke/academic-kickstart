@@ -37,7 +37,7 @@ The problem is RL and ES require a metric to define success, e.g. the reward fun
 
 ## Counter points to bottom-up
 
-The problem is bottom-up requires massive computing power. The current research task is getting a simulated agent to walk. This takes days on many computers [(Conti et al., 2017)](http://eng.uber.com/wp-content/uploads/2017/12/improving-es-arxiv.pdf). While steady improvements are being made, it's hard to see that this will lead anywhere in terms of AGI. Even if research gives an order of magnitude improvement in all metrics, where does that get the field? Maybe then the agents can walk forever, jump, ice skate, snowboard, but they'll still be as dumb as their objective function. I think we'd need a $10^3$ to $10^6$ improvement in GPU performance for this to be remotely feasible.
+The problem is bottom-up requires massive computing power. The current state-of-the-art RL research task is training a simulated agent to walk. This takes days on many computers [(Conti et al., 2017)](http://eng.uber.com/wp-content/uploads/2017/12/improving-es-arxiv.pdf). While steady improvements are being made, it's hard to see that this will lead anywhere in terms of AGI. Even if research gives an order of magnitude improvement in all metrics, where does that get the field? Maybe then the agents would be able to sprint, jump, ice skate, snowboard, etc., but they'll still be as dumb as their objective function. I think we'd need a $10^3$ to $10^6$ improvement in GPU performance for this to be remotely feasible.
 
 Perhaps the RL formalism is wrong. Perhaps there is no objective function that can create AGI.
 

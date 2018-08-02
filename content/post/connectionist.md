@@ -1,7 +1,7 @@
 +++
 title = "The Tragedy of the Partially Observable Connectionist"
 date = 2018-07-08T22:39:23-04:00
-draft = false
+draft = true
 summary = "Our minds are the Partially Observable Connectionist; brilliant distributed machinery, yet unable to introspect about its physical state. In this post, I examine some \"ah ha\" theories I've came across in Machine Learning. These strange papers fall out rank to propose models of consciousness, jokes, strong AI, and neuroscience."
 
 # Tags and categories

@@ -1,7 +1,7 @@
 +++
 title = "Old Maker Projects"
 date = 2018-07-26T19:54:50-04:00
-draft = false
+draft = true
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
