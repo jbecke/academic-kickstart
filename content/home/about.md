@@ -11,9 +11,10 @@ weight = 5
 [interests]
   interests = [
     "Computational Linguistics",
-    "Information Extraction",
+    "Neural Networks",
     "Knowledge Representation",
-    "Distributed Systems"
+    "Distributed Systems",
+    "Video Games"
   ]
 
 # List your qualifications (such as academic degrees).
