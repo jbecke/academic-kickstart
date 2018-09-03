@@ -2,7 +2,7 @@
 title = "Top Down or Bottom Up: Two Paradigms for Artificial General Intelligence"
 date = 2018-07-26T21:07:34-04:00
 draft = false
-summary = "Will human-level AI emerge from a mega-neural network, a yottaFLOP, and a whole yotta data? Or will she be a pipeline system of engineered components? I think many researchers implicitly have an opinion."
+summary = "Will human-level AI emerge from a mega-neural network, a yottaFLOP, and a whole yotta data? Or will it be a pipeline system of engineered components?"
 
 
 # Tags and categories
