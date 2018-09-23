@@ -37,11 +37,11 @@ weight = 5
 
 ## Greetings!
 
-I am a 3rd year undergrad studying Statistics at The Wharton School and Computer Science at Penn Engineering.
+I am a 3rd year undergrad studying Statistics and Finance at The Wharton School and Computer Science at Penn Engineering.
 
 > "My main goal is to build a machine smarter then myself, then retire."  - [Jürgen Schmidhuber](http://people.idsia.ch/~juergen/)
 
-I have focused my studies and research in **machine learning** and **natural language processing**, with a focus on combining parse-based and neural approaches. From time to time I can also be found in classes like Venture Capital, Corporate Finance, and Financial Derivatives.
+I have focused my studies and research in **machine learning** and **natural language processing** with a focus on neural networks. From time to time I can also be found in classes like Venture Capital, Corporate Finance, and Financial Derivatives. I am broadly interested in fintech, ML, and distributed systems, especially in applications that create new value.
 
-My favorite recent paper is [The Case for Learned Index Structures](https://arxiv.org/pdf/1712.01208.pdf), for using ML in an application I had never considered applicable. My all time favorite paper is, again from Schmidhuber, is his [Formal Theory of Creativity, Fun,
+My favorite recent paper is [The Case for Learned Index Structures](https://arxiv.org/pdf/1712.01208.pdf), for using ML in a field I had never considered. My all time favorite paper is, again from Schmidhuber, is the [Formal Theory of Creativity, Fun,
 and Intrinsic Motivation](http://people.idsia.ch/~juergen/ieeecreative.pdf).
